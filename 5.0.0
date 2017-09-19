@@ -1,0 +1,8 @@
+ang2-conduit@0.0.0 D:\Data\mobilAppDev\openshift\git\angular-realworld-example-app
++-- @angular/cli@1.4.2
+| `-- less@2.7.2
+|   `-- request@2.81.0
+|     `-- har-validator@4.2.1
+|       `-- ajv@4.11.8 
+`-- ajv@5.2.2 
+
